@@ -29,7 +29,9 @@ pip install -r requirements.txt
 
 3. Run the notebook to train and evaluate the CNN model.
 
-4. Pull requests are welcome. For major changes, please open an issue first
+4. The runtime usually takes around 60 min - 240 min based on the CPU and GPU architecture if running on Jupyter notebooks offline. 
+
+5. Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Note: The path to the 101_ObjectCategories folder can be changed in the load_dataset function.
@@ -39,5 +41,5 @@ Note: The path to the 101_ObjectCategories folder can be changed in the load_dat
 
 ## Acknowledgments
 
-- This project was implemented for the course COMP5013 - Artificial Intelligence & Machine Learning II by Dr. Daniel L.Silver at Acadia University, NS, CA
+- This project was implemented for the course COMP5013 - Artificial Intelligence & Machine Learning II by Dr. Daniel L.Silver on Apr,2020 at Acadia University, NS, CA
 - The Caltech-101 dataset was collected by Fei-Fei Li, Marco Andreetto, and Marc 'Aurelio Ranzato.
